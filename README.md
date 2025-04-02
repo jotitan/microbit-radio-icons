@@ -37,7 +37,8 @@ Le programme se décompose en plusieurs parties :
     * Il est possible de ne pas utiliser un identifiant généré : l'id de la carte est envoyée à chaque message.
     * Il est possible de le récupérer avec la fonction radio.receivedPacket
 * Gestion des icônes
-    * Les icônes peuvent être référ�encées à partir de l'enum IconNames ou directement à partir d'un entier
+    * Les icônes peuvent être référencées à partir de l'enum IconNames ou directement à partir d'un entier
     * Il y a 40 icônes, de 0 à 39
+
 ![icones](./icones_microbit.png)
 
