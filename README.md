@@ -23,10 +23,10 @@ Le programme se décompose en plusieurs parties :
         / ! \ Il n'y a que 40 icônes configurées
     * Relier cette action lors de l'appui sur le bouton A 
 * **Envoi de l'icône**
-    * Créer une function qui envoie un message radio avec l'identifiant et le numéro de l'icône séparé par un séparateur de votre choix
+    * Créer une fonction qui envoie un message radio avec l'identifiant et le numéro de l'icône séparé par un séparateur de votre choix
     * Relier cette fonction lors de l'appui sur le bouton B
 * **Réception d'une icône**
-    * Créer une fonction qui recoit un message, récupère l'identifiant et le numéro d'icône et affiche l'identifiant, fait une pause puis affiche l'icône
+    * Créer une fonction qui reçoit un message, récupère l'identifiant et le numéro d'icône et affiche l'identifiant, fait une pause puis affiche l'icône
     * Relier cette fonction à la réception d'un message
 
 # Astuces
@@ -39,6 +39,8 @@ Le programme se décompose en plusieurs parties :
 * Gestion des icônes
     * Les icônes peuvent être référencées à partir de l'enum IconNames ou directement à partir d'un entier
     * Il y a 40 icônes, de 0 à 39
+
+Le fichier skeleton.ts vous donne une structure de code pour démarrer.
 
 ![icones](./icones_microbit.png)
 
