@@ -30,6 +30,7 @@ Le programme se décompose en plusieurs parties :
     * Relier cette fonction à la réception d'un message
 
 # Astuces
+* [Documentation sur la manipulation radio](https://makecode.microbit.org/reference/radio)
 * Le message le plus simple à envoyer est une chaîne de caractères. 
     / ! \ Attention, le message est limité à 19 caractères
 * La méthode _randint_ permet de générer un entier entre deux bornes
